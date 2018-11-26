@@ -6,8 +6,8 @@
   "active" : true,
    "members" : [
     {
-      "name" : "蒙奇·D·路飞",
-      "age" : 17,
+      "name" : "Molecule Man",
+      "age" : 29,
       "secretIdentity" : "Dan Jukes",
       "powers" : [
         "Radiation resistance",
@@ -16,8 +16,8 @@
       ]
     },
     {
-      "name" : "漩涡鸣人",
-      "age" : 32,
+      "name" : "Madame Uppercut",
+      "age" : 39,
       "secretIdentity" : "Jane Wilson",
       "powers" : [
         "Million tonne punch",
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name" : "纳兹",
+      "name" : "Eternal Flame",
       "age" : 1000000,
       "secretIdentity" : "Unknown",
       "powers" : [
@@ -38,4 +38,4 @@
       ]
     }
   ]
-  }
+}
