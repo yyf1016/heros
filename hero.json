@@ -10,8 +10,8 @@
       "age" : 17,
       "secretIdentity" : "Unknown",
       "powers" : [
-        "橡胶果实",
-        "霸气"
+        "Rubber fruit",
+        "The forward",
       ]
     },
     {
@@ -19,9 +19,9 @@
       "age" : 32,
       "secretIdentity" : "Unknown",
       "powers" : [
-        "仙人模式",
-        "人力柱",
-        "血继限界"
+        "Immortal model",
+        "Human column",
+        "Blood following limit"
       ]
     },
     {
@@ -29,8 +29,8 @@
       "age" : 18,
       "secretIdentity" : "Unknown",
       "powers" : [
-       "灭龙魔法",
-        "灭龙奥义",
+       "Destroy the dragon magic",
+        "Destroy the dragon lore",
       ]
     }
   ]
