@@ -17,11 +17,11 @@
     {
       "name" : "漩涡鸣人",
       "age" : 32,
-      "secretIdentity" : "Jane Wilson",
+      "secretIdentity" : "七代火影",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "仙人模式",
+        "人力柱",
+        "血继限界"
       ]
     },
     {
@@ -29,11 +29,8 @@
       "age" : 18,
       "secretIdentity" : "Unknown",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+       "灭龙魔法",
+        "灭龙奥义",
       ]
     }
   ]
