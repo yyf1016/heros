@@ -2,7 +2,7 @@
   "squadName" : "我喜爱的二次元人物",
   "homeTown" : "二次元",
   "formed" : 2018,
-  "secretBase" : "Super tower",
+  "secretBase" : "NOT",
   "active" : true,
   "members" : [
     {
@@ -26,7 +26,7 @@
     },
     {
       "name" : "纳兹",
-      "age" : 18,
+      "age" : unknown,
       "secretIdentity" : "Unknown",
       "powers" : [
        "灭龙魔法",
