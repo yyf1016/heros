@@ -8,11 +8,11 @@
     {
       "name" : "蒙奇·D·路飞",
       "age" : 17,
-      "secretIdentity" : "you",
+      "secretIdentity" : "Dan Jukes",
       "powers" : [
-        "The forward",
-        "Rubber fruit",
-        "Rubber fruit",
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
       ]
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "name" : "纳兹",
-      "age" : 18,
+      "age" : 1000000,
       "secretIdentity" : "Unknown",
       "powers" : [
         "Immortality",
@@ -38,4 +38,4 @@
       ]
     }
   ]
-}
+  }
