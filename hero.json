@@ -4,24 +4,25 @@
   "formed" : 2018,
   "secretBase" : "NOT",
   "active" : true,
-  "members" : [
+   "members" : [
     {
       "name" : "蒙奇·D·路飞",
       "age" : 17,
-      "secretIdentity" : "Unknown",
+      "secretIdentity" : "Dan Jukes",
       "powers" : [
-        "Rubber fruit",
-        "The forward",
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
       ]
     },
     {
       "name" : "漩涡鸣人",
       "age" : 32,
-      "secretIdentity" : "Unknown",
+      "secretIdentity" : "Jane Wilson",
       "powers" : [
-        "Immortal model",
-        "Human column",
-        "Blood following limit"
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
       ]
     },
     {
@@ -29,8 +30,11 @@
       "age" : 18,
       "secretIdentity" : "Unknown",
       "powers" : [
-       "Destroy the dragon magic",
-        "Destroy the dragon lore",
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
       ]
     }
   ]
