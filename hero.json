@@ -1,40 +1,36 @@
 {
-  "squadName" : "我喜爱的二次元人物",
+  "squadName" : "二次元动漫人物",
   "homeTown" : "二次元",
   "formed" : 2018,
-  "secretBase" : "NOT",
+  "secretBase" : "能力",
   "active" : true,
-   "members" : [
+  "members" : [
     {
       "name" : "蒙奇·D·路飞",
       "age" : 17,
-      "secretIdentity" : "草帽海贼团船长",
+      "secretIdentity" : "草帽海贼团、草帽大船团船长",
       "powers" : [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+        "橡胶果实",
+        "霸气",
       ]
     },
     {
       "name" : "漩涡鸣人",
-      "age" : 32,
-      "secretIdentity" : "Jane Wilson",
+      "age" : 19 ,
+      "secretIdentity" : "第三代九尾人柱力、阿修罗转世",
       "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+        "仙人模式",
+        "人力柱",
+        "血继限界",
       ]
     },
     {
-      "name" : "纳兹",
+      "name" : "艾特利亚斯·纳兹‧多拉格尼尔",
       "age" : 18,
-      "secretIdentity" : "Unknown",
+      "secretIdentity" : "火之灭龙魔导士、E.N.D ",
       "powers" : [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+        "灭龙魔法",
+        "灭龙奥义",
       ]
     }
   ]
